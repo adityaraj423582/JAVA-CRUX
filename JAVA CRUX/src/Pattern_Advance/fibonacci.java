@@ -1,4 +1,4 @@
-package lecture5;
+package Pattern_Advance;
 
 import java.util.Scanner;
 public class fibonacci {

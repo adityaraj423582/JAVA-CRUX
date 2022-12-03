@@ -1,4 +1,4 @@
-package lecture5;
+package Pattern_Advance;
 
 public class diamond_pattern {
     public static void main(String arg[]) {

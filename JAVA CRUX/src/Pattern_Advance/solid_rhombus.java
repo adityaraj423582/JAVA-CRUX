@@ -1,4 +1,4 @@
-package lecture5;
+package Pattern_Advance;
 
 public class solid_rhombus {
 
